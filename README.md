@@ -134,7 +134,7 @@ We welcome contributions to the ARMStrong client! To contribute, follow these st
 For more details, see CONTRIBUTING.md.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPLv3 License. See the LICENSE file for details.
 For support, issues, or feature requests, please open an issue on the [GitHub Issues page](https://github.com/digital-armstrong/armstrong.crossplatformclient/issues).
 
 ```bash
